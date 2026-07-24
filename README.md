@@ -57,7 +57,7 @@
 ## 👀 主页访问统计
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daimajiang233&color=00FF9F&style=for-the-badge&label=主页访问量" />
+  <img src="https://komarev.com/ghpvc/?username=daimajiang233&color=00FF9F&style=for-the-badge&label=%20%20%20%20%20%20%20%20%20主页访问量%20%20%20%20%20%20%20%20%20" />
 </p>
 
 ---
